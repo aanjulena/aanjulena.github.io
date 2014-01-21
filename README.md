@@ -1,5 +1,5 @@
-aanjulena.github.io Flatdoc Test
-===============================
+aanjulena.github.io Flatdoc TEST
+================================
 
 Flatdoc is a small JavaScript file that fetches Markdown files and renders them
 as full pages. Essentially, it's the easiest
